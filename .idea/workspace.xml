@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1b6e9f3-7751-49b5-8fb7-046b955dcbe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/user.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578474856641</updated>
       <workItem from="1578474859098" duration="10242000" />
+      <workItem from="1578571950715" duration="210000" />
     </task>
     <servers />
   </component>
@@ -71,13 +70,18 @@
       <screen x="1920" y="120" width="1920" height="1040" />
     </state>
     <state x="2472" y="299" key="#Inspections/1920.120.1920.1040/0.0.1920.1040@1920.120.1920.1040" timestamp="1578482528981" />
-    <state x="2334" y="295" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578478562635">
+    <state x="2334" y="295" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578572028918">
       <screen x="1920" y="120" width="1920" height="1040" />
     </state>
-    <state x="2334" y="295" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.120.1920.1040/0.0.1920.1040@1920.120.1920.1040" timestamp="1578478562635" />
-    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1578475102579">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2334" y="295" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.120.1920.1040/0.0.1920.1040@1920.120.1920.1040" timestamp="1578572028918" />
+    <state x="2464" y="235" key="CommitChangelistDialog2" timestamp="1578572368126">
+      <screen x="1920" y="120" width="1920" height="1040" />
+    </state>
+    <state x="2464" y="235" key="CommitChangelistDialog2/1920.120.1920.1040/0.0.1920.1040@1920.120.1920.1040" timestamp="1578572368126" />
+    <state x="2581" y="464" key="com.intellij.ide.util.TipDialog" timestamp="1578571952197">
+      <screen x="1920" y="120" width="1920" height="1040" />
     </state>
     <state x="661" y="344" key="com.intellij.ide.util.TipDialog/1920.120.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578475102579" />
+    <state x="2581" y="464" key="com.intellij.ide.util.TipDialog/1920.120.1920.1040/0.0.1920.1040@1920.120.1920.1040" timestamp="1578571952197" />
   </component>
 </project>

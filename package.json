@@ -4,8 +4,8 @@
   "description": "Projekt z kursu JavaScript i front-end (nie tylko) dla backendowców",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node dist/main.js",
+    "test": "mocha-webpack --webpack-config webpack.test.js \"src/**/*.spec.js\"",
+    "start": "webpack-dev-server --mode development --open",
     "build": "webpack"
   },
   "repository": {
@@ -21,8 +21,11 @@
   "devDependencies": {
     "clean-webpack-plugin": "^1.0.0",
     "html-webpack-plugin": "^3.2.0",
+    "mocha": "^7.0.0",
+    "mocha-webpack": "^2.0.0-beta.0",
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10",
-    "webpack-dev-server": "^3.10.1"
+    "webpack-dev-server": "^3.10.1",
+    "webpack-node-externals": "^1.7.2"
   }
 }
