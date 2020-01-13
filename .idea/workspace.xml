@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1b6e9f3-7751-49b5-8fb7-046b955dcbe9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/about-me/component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/about-me/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github/model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github/model.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github/service.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/about-me/user.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +40,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kkuchta\Desktop\moje\projektyUdemy\fe-workshop\src\about-me" />
+      <recent name="C:\Users\kkuchta\Desktop\moje\projektyUdemy\fe-workshop\src\github" />
       <recent name="C:\Users\kkuchta\Desktop\moje\projektyUdemy\fe-workshop\src" />
     </key>
   </component>
@@ -80,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578474856641</updated>
       <workItem from="1578474859098" duration="10242000" />
-      <workItem from="1578571950715" duration="5123000" />
+      <workItem from="1578571950715" duration="13655000" />
     </task>
     <task id="LOCAL-00001" summary="Add test">
       <created>1578572400191</created>
@@ -115,10 +125,10 @@
       <screen x="1920" y="120" width="1920" height="1040" />
     </state>
     <state x="2472" y="299" key="#Inspections/1920.120.1920.1040/0.0.1920.1040@1920.120.1920.1040" timestamp="1578482528981" />
-    <state x="2334" y="295" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578573092479">
+    <state x="2334" y="295" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578907418324">
       <screen x="1920" y="120" width="1920" height="1040" />
     </state>
-    <state x="2334" y="295" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.120.1920.1040/0.0.1920.1040@1920.120.1920.1040" timestamp="1578573092479" />
+    <state x="2334" y="295" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.120.1920.1040/0.0.1920.1040@1920.120.1920.1040" timestamp="1578907418324" />
     <state x="2464" y="235" key="CommitChangelistDialog2" timestamp="1578572399621">
       <screen x="1920" y="120" width="1920" height="1040" />
     </state>
