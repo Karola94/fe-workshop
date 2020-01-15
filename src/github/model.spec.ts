@@ -1,6 +1,4 @@
 import { GitHubUser } from './model';
-import { describe } from "mocha";
-import { it } from 'mocha';
 
 const assert = require('assert'); //assert from Node
 
@@ -16,8 +14,8 @@ describe('GitHubUser', () => {
         const result = new GitHubUser(input);
 
         //then
-        assert.equal(result.img, givenUrl);
-        assert.equal(result.bio, givenBio);
+        assert.strictEqual(result.img, givenUrl);
+        assert.strictEqual(result.bio, givenBio);
     });
 
     it('should return bio from toString implementation', () => {
@@ -31,6 +29,6 @@ describe('GitHubUser', () => {
         const result = new GitHubUser(input);
 
         //then
-        assert.equal(`${result}`, givenBio);
+        assert.strictEqual(`${result}`, givenBio);
     });
 });
